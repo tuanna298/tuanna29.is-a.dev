@@ -1,0 +1,12 @@
+{
+  "description": "Portfolio website for tuanna29.dev",
+  "repo": "https://github.com/tuanna298/tuanna29.is-a.dev",
+  "owner": {
+    "username": "tuanna298",
+    "email": "tuanna29.work@gmail.com"
+  },
+  "record": {
+    "CNAME": "is-a-dev-docs.pages.dev"
+  },
+  "proxied": true
+}
